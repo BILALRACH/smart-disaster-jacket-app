@@ -1,17 +1,21 @@
-# akilli_afet_ceket
+# 🚨 Smart Disaster Jacket App
 
-A new Flutter project.
+## 📱 Overview
+Mobile application developed during my internship for a **Smart Disaster Jacket system** using ESP32.
 
-## Getting Started
+## ⚙️ Features
+- 📡 Real-time monitoring
+- 🚨 Emergency alerts
+- 📊 Sensor data tracking
+- 📱 Mobile interface
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies
+- Flutter
+- ESP32
+- IoT Systems
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 About the Project
+This project is part of a larger system where a smart jacket collects environmental data (like gas, temperature, etc.) using ESP32 and sends it to the mobile app.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Bilal
